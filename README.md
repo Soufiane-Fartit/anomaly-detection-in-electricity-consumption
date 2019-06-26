@@ -30,7 +30,7 @@ http://data.ukedc.rl.ac.uk/simplebrowse/edc/efficiency/residential/EnergyConsump
 
 Final results:
 
-| First Header  | f1-score (simple AE) | f1-score (VAE) |
+| appliance  | f1-score (simple AE) | f1-score (VAE) |
 | ------------- | ------------- | ------------- |
 | télévision  | 0.93  | 0.96 |
 | microwave  | 0.84  | 0.90 |
