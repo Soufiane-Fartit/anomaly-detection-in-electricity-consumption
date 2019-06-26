@@ -27,3 +27,11 @@ Requirements:
 We use UK-DALE dataset, which is available here:
 http://data.ukedc.rl.ac.uk/simplebrowse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017
 
+
+Final results:
+| First Header  | f1-score (simple AE) | f1-score (VAE) |
+| ------------- | ------------- | ------------- |
+| télévision  | 0.93  | 0.96 |
+| microwave  | 0.84  | 0.90 |
+| kettle  | 0.84  | 0.88 |
+
