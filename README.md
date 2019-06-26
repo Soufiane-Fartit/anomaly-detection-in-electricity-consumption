@@ -11,3 +11,19 @@ Through the consumption of electrical appliances, the objective is to detect abn
 of potential problems due to changes in the consumption pattern.
 
 we use AE to reduce the dimension of data and classify it to normal or anomaly behaviour.
+
+
+Requirements:
+  -Keras
+  -SKlearn
+  -Numpy
+  -Pandas
+  -Scipy
+  -Matplotlib
+  -NILMTK : https://github.com/nilmtk/nilmtk
+
+
+
+We use UK-DALE dataset, which is available here:
+http://data.ukedc.rl.ac.uk/simplebrowse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017
+
