@@ -26,7 +26,7 @@ Requirements:
 
 
 
-We use UK-DALE dataset, which is available here:
+We use UK-DALE dataset, which is available here (HDF5 format):
 http://data.ukedc.rl.ac.uk/simplebrowse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017
 
 
