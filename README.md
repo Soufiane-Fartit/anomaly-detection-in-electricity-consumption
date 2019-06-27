@@ -1,5 +1,7 @@
 # anomaly-detection-in-electricity-consumption
 
+(a paper for this work will be available soon)
+
 Nowadays, modern societies are confronted with the important problem of the aging of their population.
 Older people often have to leave their homes for treatment by relatives or go to specialized centers for the elderly.
 On the other hand, it is the same for people with disabilities who need the support of others for their daily activities.
