@@ -1,6 +1,6 @@
 # anomaly-detection-in-electricity-consumption
 
-(a paper for this work will be available soon)
+(this is code for my internship, link for paper (in french): https://drive.google.com/open?id=1zcn2JqBxAFfJaw8tebgsnAQwWq_gobd5 )
 
 Nowadays, modern societies are confronted with the important problem of the aging of their population.
 Older people often have to leave their homes for treatment by relatives or go to specialized centers for the elderly.
